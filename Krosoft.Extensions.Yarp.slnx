@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Krosoft.Extensions.Yarp/Krosoft.Extensions.Yarp.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Krosoft.Extensions.Yarp.Tests/Krosoft.Extensions.Yarp.Tests.csproj" />
+  </Folder>
+</Solution>
